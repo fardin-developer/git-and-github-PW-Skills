@@ -1,0 +1,8 @@
+Youtube Github: https://github.com/fardin-developer/Tailwind-Youtube-clone-pw
+Youtube Live Link: https://tailwind-youtube-clone-pw.vercel.app/
+
+Slack Github: https://github.com/fardin-developer/Slack-PW-Skills-Assignment
+Slack Live Link: https://slack-pw-skills-assignment.vercel.app/
+
+Gmail Github: https://github.com/fardin-developer/Gmail-Clone-PW-Skill
+Gmail Live Link: https://gmail-clone-pw-skill.vercel.app/

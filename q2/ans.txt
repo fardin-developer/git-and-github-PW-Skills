@@ -1,0 +1,42 @@
+Git Workflow Explanation
+
+1. Working Directory
+The working directory is the area where all the files and directories
+of a project are located. This is where developers make changes to 
+their project files. Any modifications, additions, or deletions of
+files occur in the working directory.
+
+2. Staging Area (Index)
+The staging area, also known as the index, is an intermediate area
+where changes are collected before they are committed to the repository.
+When a file is modified in the working directory and is ready to
+be included in the next commit, it is added to the staging area.
+This allows developers to prepare a set of changes as a single unit,
+which can be committed together.
+
+3. Repository
+The repository is where Git stores all the committed changes and the history 
+of the project. It contains all the versions of the project's files, which 
+are stored in a compressed format. The repository can be local (on the 
+developer's machine) or remote (on a server). The repository maintains 
+the complete history of the project, allowing developers to revert to 
+previous versions if necessary.
+
+Git Workflow Steps
+Modify Files in the Working Directory:
+Developers make changes to files in the working directory.
+
+Stage Changes:
+Using the git add command, developers add the changes from the working 
+directory to the staging area.
+
+Commit Changes:
+Using the git commit command, the staged changes are committed to the 
+repository. This creates a new snapshot of the project at that point in time.
+
+Push to Remote Repository (if applicable):
+Using the git push command, the committed changes are pushed to a remote 
+repository to share with other collaborators.
+
+This workflow ensures that changes are systematically controlled and recorded, 
+providing a reliable history of the project’s evolution.
