@@ -23,3 +23,11 @@ Welcome to the **Project Name** repository! Here you'll find the code and docume
   A Gmail clone designed to mimic the Gmail interface with features such as email viewing, composing, and inbox management.
 
 
+### YouTube Preview
+![YouTube 2023-11-06 175009](https://github.com/fardin-developer/git-and-github-PW-Skills/blob/main/outout/Screenshot%202024-08-11%20at%208.53.55%E2%80%AFPM.png?raw=true)
+
+### Slack Preview
+![Slack 2023-11-06 175009](https://github.com/fardin-developer/git-and-github-PW-Skills/blob/main/outout/Screenshot%202024-08-11%20at%208.54.44%E2%80%AFPM.png)
+
+### Gmail Preview
+![Gmail 2023-11-06 175009](https://github.com/fardin-developer/git-and-github-PW-Skills/blob/main/outout/Screenshot%202024-08-11%20at%208.55.33%E2%80%AFPM.png)
